@@ -1,5 +1,7 @@
 **DESAFIO PROPOSTO PELO BOOTCAMP DIO COM IFODD**
 
+Foi feito uma função que recebe os valores de vitórias e derrotas, retornando para uma variável o resultado. Dentro de uma condicional foi feita a validação do saldo de pontos para verificar qual o nível do jogador.
+
 Instruções para entrega
  # 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
